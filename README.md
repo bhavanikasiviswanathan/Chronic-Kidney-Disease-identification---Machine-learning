@@ -5,7 +5,7 @@ From the data set, training a machine learning model to respond for the given in
 2.Preprocessing (RandomForestClassifier)
 3.Classifing input and output data
 4.Handling missing data
-5. Splitting (Training set-80% & Testing set-20%)
+5.Splitting (Training set-80% & Testing set-20%)
 6.Linear regression to train machine learning model
 7.Testing data
 8.Deployment with Userinterface
